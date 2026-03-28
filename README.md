@@ -1,4 +1,4 @@
 # portfolio
 
 # Link of my portfolio
-https://lupitot.github.io/portfolio/
+https://paulPgr.github.io/portfolio/
